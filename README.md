@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @HadyZen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# **Nihongo Study App**
 
-<!---
-HadyZen/HadyZen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## **Deskripsi Singkat**
+
+Kono purojekuto wa, React to iOSu o tsukatte Nihongo o manabu tameno app desu. Kanji, go-i, to bunpou no renshuu ga dekimasu.
+
+## **Fitur**
+
+* **Kanji Renshuu:** Kanji o kaku to yomu renshuu ga dekimasu.
+* **Go-i Renshuu:** Kotoba no imi to yomi o renshuu shimasu.
+* **Bunpou Renshuu:** Nihongo no bunpou o manabu koto ga dekimasu.
