@@ -11,4 +11,4 @@ Kono purojekuto wa, React to iOSu o tsukatte Nihongo o manabu tameno app desu. K
 * **Bunpou Renshuu:** Nihongo no bunpou o manabu koto ga dekimasu.
 
 <h3>Skills:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,telegrambot&theme=dark" alt="Skills">
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=light" alt="Skills">
