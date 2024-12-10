@@ -11,7 +11,7 @@ Kono purojekuto wa, React to iOSu o tsukatte Nihongo o manabu tameno app desu. K
 * **Bunpou Renshuu:** Nihongo no bunpou o manabu koto ga dekimasu.
 
 <h2>Skil:</h2>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark" alt="hady-skil">
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,bash&theme=dark" alt="hady-skil">
 
 <h2>Kontak:</h2>
 <p align="left">
