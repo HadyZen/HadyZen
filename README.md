@@ -10,5 +10,5 @@ Kono purojekuto wa, React to iOSu o tsukatte Nihongo o manabu tameno app desu. K
 * **Go-i Renshuu:** Kotoba no imi to yomi o renshuu shimasu.
 * **Bunpou Renshuu:** Nihongo no bunpou o manabu koto ga dekimasu.
 
-<h3>Skills:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=light" alt="Skills">
+<h1>Skills:</h1>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark" alt="hady-skil">
